@@ -1,4 +1,4 @@
-# Привет, я Михаил Мишуков 👋
+# Привет, я Михаил 👋
 
 Студент РУТ МИИТ (ЦИТП) | Python-разработчик | Аналитик данных
 
@@ -34,6 +34,5 @@
 
 ## Контакты
 
-📧 mischukow1903@gmail.com  
-📱 +7 915 419 55 88  
-✈️ https://t.me/kudesnik_mm
+mischukow1903@gmail.com  
+https://t.me/kudesnik_mm
