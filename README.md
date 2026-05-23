@@ -29,6 +29,7 @@
 | [Таксопарк](https://github.com/MishanyaKudesnik/taxi-park-management) | Django веб-приложение управления таксопарком. CRUD, дашборд | Django, SQLite |
 | [Атмосфера и Океан](https://github.com/MishanyaKudesnik/atmosphere-ocean-analysis) | EDA климатических данных NASA/NOAA | pandas, polars, plotly |
 | [SQL Projects](https://github.com/MishanyaKudesnik/sql-projects) | PostgreSQL CRUD + агрегация MongoDB | psycopg2, pymongo |
+| [Mobile Price Classification](https://github.com/MishanyaKudesnik/mobile-price-classification) | ML-классификация цен на телефоны. Accuracy 96.5%, 3 модели сравнения | scikit-learn, pandas |
 
 ---
 
